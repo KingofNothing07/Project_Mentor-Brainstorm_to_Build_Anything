@@ -8,7 +8,7 @@ Works for code, systems, businesses, writing, research, trading strategies, 3D m
 
 ## Why Project Mentor?
 
-Most AI chats wander. This one keeps a structured, versioned, agent-readable log:
+Most AI skills are good at one or a few things and wander. This skill helps with any project/design and keeps a structured, versioned, agent-readable log:
 
 - **Knowledge graph** with typed edges (`flows-to`, `depends-on`, `interfaces-with`, …)
 - **Forward flowchart** (what happens) and **reverse flowchart** (what must exist first — the build order)
@@ -18,11 +18,11 @@ Most AI chats wander. This one keeps a structured, versioned, agent-readable log
 - **Inheritance packages** that let other AIs pick up the exact approved design without re-explaining everything
 - **Work-in-progress intake** for diagnosing and finishing existing projects
 
-It is deliberately opinionated about honesty and completeness, and deliberately flexible about structure.
+Deliberately honest and opinionated about progressing connections and completeness, while inherently adaptable to maintain your intended design structure.
 
 ## Quick Start
 
-1. Copy `SKILL.md` into your AI’s skill folder (or paste the body as custom instructions).
+1. Copy `Project_Mentor-SKILL-v1.01.md` into your AI’s skill folder (or paste the body as custom instructions).
 2. Say something like:
    - “Mentor me on this project.”
    - “Help me plan, scope, and flesh this out.”
